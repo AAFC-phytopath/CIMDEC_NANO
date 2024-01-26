@@ -1,0 +1,17 @@
+Sample_ID	Ech	Type	run_name	barcode	year
+CIMDEC_plaque_1_B1	B.cinerea	Sample	CIMDEC_plaque_1	1	2023
+CIMDEC_plaque_1_B2	B.pseudocinerea	Sample	CIMDEC_plaque_1	2	2023
+CIMDEC_plaque_1_B3	E.ampelina	Sample	CIMDEC_plaque_1	3	2023
+CIMDEC_plaque_1_B4	G.bidwellii	Sample	CIMDEC_plaque_1	4	2023
+CIMDEC_plaque_1_B5	Pho.viticola	Sample	CIMDEC_plaque_1	5	2023
+CIMDEC_plaque_1_B6	S.sclerotiorum	Sample	CIMDEC_plaque_1	6	2023
+CIMDEC_plaque_1_B7	A.dauci	Sample	CIMDEC_plaque_1	7	2023
+CIMDEC_plaque_1_B8	C.acutatum	Sample	CIMDEC_plaque_1	8	2023
+CIMDEC_plaque_1_B9	Pla.viticola	Sample	CIMDEC_plaque_1	9	2023
+CIMDEC_plaque_1_B10	C.carotae	Sample	CIMDEC_plaque_1	10	2023
+CIMDEC_plaque_1_B11	G.uvicola	Sample	CIMDEC_plaque_1	11	2023
+CIMDEC_plaque_1_B12	C.diplodiella	Sample	CIMDEC_plaque_1	12	2023
+CIMDEC_plaque_1_B25	Pooled.DNA	Pooled_DNA	CIMDEC_plaque_1	25	2023
+CIMDEC_plaque_1_B27	Pooled.DNA.1/100	Pooled_DNA	CIMDEC_plaque_1	27	2023
+CIMDEC_plaque_1_B29	Témoin	Neg	CIMDEC_plaque_1	29	2023
+CIMDEC_plaque_1_B31	Pooled.Ampl	Pooled_AMP	CIMDEC_plaque_1	31	2023

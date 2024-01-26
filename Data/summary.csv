@@ -1,0 +1,133 @@
+"","Ech","taxon","2_Maraicher","1_Vigne"
+"1","A.dauci","Botrytis cinerea complex",0.153423434732276,NA
+"2","A.dauci","Elsinoe ampelina",0.0292899284488891,NA
+"3","A.dauci","Phyllosticta ampelicida",0,NA
+"4","A.dauci","Diaporthe ampelina complex",0.0585798568977782,NA
+"5","A.dauci","Sclerotinia sclerotiorum complex",0.0209213774634922,NA
+"6","A.dauci","Alternaria dauci",99.4895183898908,NA
+"7","A.dauci","Colletotrichum acutatum",0.0488165474148151,NA
+"8","A.dauci","Neocercospora carotae complex",0.0376584794342859,NA
+"9","A.dauci","Greeneria uvicola",0.0697379248783073,NA
+"10","A.dauci","Coniella diplodiella",0.0502113059123813,NA
+"11","A.dauci","Other",0.0418427549269844,NA
+"12","C.carotae","Botrytis cinerea complex",0.230559034498463,NA
+"13","C.carotae","Elsinoe ampelina",0.0298872822498008,NA
+"14","C.carotae","Phyllosticta ampelicida",0,NA
+"15","C.carotae","Diaporthe ampelina complex",0.064044176249573,NA
+"16","C.carotae","Sclerotinia sclerotiorum complex",0.0227712626665149,NA
+"17","C.carotae","Alternaria dauci",0.180746897415462,NA
+"18","C.carotae","Colletotrichum acutatum",0.0526585449163156,NA
+"19","C.carotae","Neocercospora carotae complex",87.5782762154161,NA
+"20","C.carotae","Greeneria uvicola",0.150859615165661,NA
+"21","C.carotae","Coniella diplodiella",0.0825458271661164,NA
+"22","C.carotae","Other",11.607651144256,NA
+"23","S.sclerotiorum","Botrytis cinerea complex",17.0445004198153,NA
+"24","S.sclerotiorum","Elsinoe ampelina",0.0918345927791772,NA
+"25","S.sclerotiorum","Phyllosticta ampelicida",0,NA
+"26","S.sclerotiorum","Diaporthe ampelina complex",0.262384550797649,NA
+"27","S.sclerotiorum","Sclerotinia sclerotiorum complex",80.9981108312343,NA
+"28","S.sclerotiorum","Alternaria dauci",0.600860621326616,NA
+"29","S.sclerotiorum","Colletotrichum acutatum",0.115449202350966,NA
+"30","S.sclerotiorum","Neocercospora carotae complex",0.133816120906801,NA
+"31","S.sclerotiorum","Greeneria uvicola",0.228274559193955,NA
+"32","S.sclerotiorum","Coniella diplodiella",0.217779177162049,NA
+"33","S.sclerotiorum","Other",0.306989924433249,NA
+"34","B.cinerea","Botrytis cinerea complex",NA,99.5404473879841
+"35","B.cinerea","Elsinoe ampelina",NA,0.0321011015746435
+"36","B.cinerea","Phyllosticta ampelicida",NA,0
+"37","B.cinerea","Diaporthe ampelina complex",NA,0.0422382915455836
+"38","B.cinerea","Sclerotinia sclerotiorum complex",NA,0.0109819558018517
+"39","B.cinerea","Alternaria dauci",NA,0.130093937960397
+"40","B.cinerea","Colletotrichum acutatum",NA,0.0439278232074069
+"41","B.cinerea","Neocercospora carotae complex",NA,0.0456173548692302
+"42","B.cinerea","Greeneria uvicola",NA,0.0608231398256403
+"43","B.cinerea","Coniella diplodiella",NA,0.0481516523619653
+"44","B.cinerea","Other",NA,0.0456173548692302
+"45","B.pseudocinerea","Botrytis cinerea complex",NA,99.5100512263272
+"46","B.pseudocinerea","Elsinoe ampelina",NA,0.0194039118286247
+"47","B.pseudocinerea","Phyllosticta ampelicida",NA,0
+"48","B.pseudocinerea","Diaporthe ampelina complex",NA,0.054330953120149
+"49","B.pseudocinerea","Sclerotinia sclerotiorum complex",NA,0.0174635206457622
+"50","B.pseudocinerea","Alternaria dauci",NA,0.144559143123254
+"51","B.pseudocinerea","Colletotrichum acutatum",NA,0.0320164545172307
+"52","B.pseudocinerea","Neocercospora carotae complex",NA,0.041718410431543
+"53","B.pseudocinerea","Greeneria uvicola",NA,0.0630627134430301
+"54","B.pseudocinerea","Coniella diplodiella",NA,0.0650031046258926
+"55","B.pseudocinerea","Other",NA,0.0523905619372866
+"56","C.acutatum","Botrytis cinerea complex",NA,0.271363884517807
+"57","C.acutatum","Elsinoe ampelina",NA,0.0433539933845018
+"58","C.acutatum","Phyllosticta ampelicida",NA,0
+"59","C.acutatum","Diaporthe ampelina complex",NA,0.0995536144384855
+"60","C.acutatum","Sclerotinia sclerotiorum complex",NA,0.0240855518802787
+"61","C.acutatum","Alternaria dauci",NA,0.295449436398086
+"62","C.acutatum","Colletotrichum acutatum",NA,97.3939432865538
+"63","C.acutatum","Neocercospora carotae complex",NA,0.0674395452647805
+"64","C.acutatum","Greeneria uvicola",NA,0.134879090529561
+"65","C.acutatum","Coniella diplodiella",NA,0.115610649025338
+"66","C.acutatum","Other",NA,1.55432094800732
+"67","C.diplodiella","Botrytis cinerea complex",NA,0.158327011247815
+"68","C.diplodiella","Elsinoe ampelina",NA,0.0197908764059768
+"69","C.diplodiella","Phyllosticta ampelicida",NA,0
+"70","C.diplodiella","Diaporthe ampelina complex",NA,0.0494771910149421
+"71","C.diplodiella","Sclerotinia sclerotiorum complex",NA,0.0247385955074711
+"72","C.diplodiella","Alternaria dauci",NA,0.131939176039846
+"73","C.diplodiella","Colletotrichum acutatum",NA,0.0247385955074711
+"74","C.diplodiella","Neocercospora carotae complex",NA,0.0412309925124518
+"75","C.diplodiella","Greeneria uvicola",NA,0.0742157865224132
+"76","C.diplodiella","Coniella diplodiella",NA,99.4244153445262
+"77","C.diplodiella","Other",NA,0.0511264307154402
+"78","D.ampelina","Botrytis cinerea complex",NA,0.190288444426191
+"79","D.ampelina","Elsinoe ampelina",NA,0.0246416690623845
+"80","D.ampelina","Phyllosticta ampelicida",NA,0
+"81","D.ampelina","Diaporthe ampelina complex",NA,99.1950388106288
+"82","D.ampelina","Sclerotinia sclerotiorum complex",NA,0.0342245403644229
+"83","D.ampelina","Alternaria dauci",NA,0.187550481197038
+"84","D.ampelina","Colletotrichum acutatum",NA,0.0424384300518844
+"85","D.ampelina","Neocercospora carotae complex",NA,0.0739250071871535
+"86","D.ampelina","Greeneria uvicola",NA,0.0780319520308842
+"87","D.ampelina","Coniella diplodiella",NA,0.0794009336454611
+"88","D.ampelina","Other",NA,0.0944597314058072
+"89","E.ampelina","Botrytis cinerea complex",NA,0.311419952859568
+"90","E.ampelina","Elsinoe ampelina",NA,98.9912436036784
+"91","E.ampelina","Phyllosticta ampelicida",NA,0
+"92","E.ampelina","Diaporthe ampelina complex",NA,0.119682962275442
+"93","E.ampelina","Sclerotinia sclerotiorum complex",NA,0.035416386795794
+"94","E.ampelina","Alternaria dauci",NA,0.172196915110585
+"95","E.ampelina","Colletotrichum acutatum",NA,0.0500714434009501
+"96","E.ampelina","Neocercospora carotae complex",NA,0.0683902641573953
+"97","E.ampelina","Greeneria uvicola",NA,0.0867090849138405
+"98","E.ampelina","Coniella diplodiella",NA,0.0757177924599734
+"99","E.ampelina","Other",NA,0.0891515943480332
+"100","G.uvicola","Botrytis cinerea complex",NA,0.15795807842744
+"101","G.uvicola","Elsinoe ampelina",NA,0.0250727108614983
+"102","G.uvicola","Phyllosticta ampelicida",NA,0
+"103","G.uvicola","Diaporthe ampelina complex",NA,0.0714572259552703
+"104","G.uvicola","Sclerotinia sclerotiorum complex",NA,0.0100290843445993
+"105","G.uvicola","Alternaria dauci",NA,0.129124460936716
+"106","G.uvicola","Colletotrichum acutatum",NA,0.0426236084645472
+"107","G.uvicola","Neocercospora carotae complex",NA,0.0526526928091465
+"108","G.uvicola","Greeneria uvicola",NA,99.3343195266272
+"109","G.uvicola","Coniella diplodiella",NA,0.0739644970414201
+"110","G.uvicola","Other",NA,0.102798114532143
+"111","G.bidwellii","Botrytis cinerea complex",NA,24.4507624709227
+"112","G.bidwellii","Elsinoe ampelina",NA,7.76686482295167
+"113","G.bidwellii","Phyllosticta ampelicida",NA,0.219695011630912
+"114","G.bidwellii","Diaporthe ampelina complex",NA,0.827087102610494
+"115","G.bidwellii","Sclerotinia sclerotiorum complex",NA,0.336004135435513
+"116","G.bidwellii","Alternaria dauci",NA,8.55518221762729
+"117","G.bidwellii","Colletotrichum acutatum",NA,0.646161798914448
+"118","G.bidwellii","Neocercospora carotae complex",NA,0.581545619023003
+"119","G.bidwellii","Greeneria uvicola",NA,0.904626518480227
+"120","G.bidwellii","Coniella diplodiella",NA,0.917549754458516
+"121","G.bidwellii","Other",NA,54.7945205479452
+"122","P.viticola","Botrytis cinerea complex",NA,0.398503398348425
+"123","P.viticola","Elsinoe ampelina",NA,0.0642033252894684
+"124","P.viticola","Phyllosticta ampelicida",NA,0
+"125","P.viticola","Diaporthe ampelina complex",NA,0.110695388430118
+"126","P.viticola","Sclerotinia sclerotiorum complex",NA,0.0354225242976378
+"127","P.viticola","Alternaria dauci",NA,0.292235825455512
+"128","P.viticola","Colletotrichum acutatum",NA,0.0885563107440944
+"129","P.viticola","Neocercospora carotae complex",NA,0.104053665124311
+"130","P.viticola","Greeneria uvicola",NA,0.19703779140561
+"131","P.viticola","Coniella diplodiella",NA,0.177112621488189
+"132","P.viticola","Other",NA,98.5321791494166

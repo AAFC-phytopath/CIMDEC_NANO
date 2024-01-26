@@ -1,0 +1,17 @@
+Sample_ID,Ech,Type,run_name,barcode,year
+CIMDEC_plaque_2_B81,B.cinerea,Vigne,CIMDEC_plaque_1,81,2023
+CIMDEC_plaque_2_B82,B.pseudocinerea,Vigne,CIMDEC_plaque_1,82,2023
+CIMDEC_plaque_2_B83,E.ampelina,Vigne,CIMDEC_plaque_1,83,2023
+CIMDEC_plaque_2_B84,G.bidwellii,Vigne,CIMDEC_plaque_1,84,2023
+CIMDEC_plaque_2_B85,Pho.viticola,Vigne,CIMDEC_plaque_1,85,2023
+CIMDEC_plaque_2_B86,S.sclerotiorum,Maraicher,CIMDEC_plaque_1,86,2023
+CIMDEC_plaque_2_B87,A.dauci,Maraicher,CIMDEC_plaque_1,87,2023
+CIMDEC_plaque_2_B88,C.acutatum,Vigne,CIMDEC_plaque_1,88,2023
+CIMDEC_plaque_2_B89,Pla.viticola,Vigne,CIMDEC_plaque_1,89,2023
+CIMDEC_plaque_2_B90,C.carotae,Maraicher,CIMDEC_plaque_1,90,2023
+CIMDEC_plaque_2_B91,G.uvicola,Vigne,CIMDEC_plaque_1,91,2023
+CIMDEC_plaque_2_B92,C.diplodiella,Vigne,CIMDEC_plaque_1,92,2023
+CIMDEC_plaque_2_B93,Pooled.DNA,Pooled,CIMDEC_plaque_1,93,2023
+CIMDEC_plaque_2_B94,Pooled.DNA.1/100,Pooled,CIMDEC_plaque_1,94,2023
+CIMDEC_plaque_2_B95,Pooled.Ampl,Pooled,CIMDEC_plaque_1,95,2023
+CIMDEC_plaque_2_B96,Témoin,Neg,CIMDEC_plaque_1,96,2023
